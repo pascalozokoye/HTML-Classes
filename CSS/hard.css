@@ -1,0 +1,19 @@
+.middle {
+  background-color: cadetblue;
+  font-size: x-large;
+}
+
+.opposite {
+  background-color: gray;
+  font-size: x-large;
+}
+
+.outside {
+  background-color: darkgray;
+  font-size: x-large;
+}
+
+.libero {
+  background-color: whitesmoke;
+  font-size: large;
+}
